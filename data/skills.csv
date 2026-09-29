@@ -1,0 +1,133 @@
+skill,category,importance
+Python,Programming,High
+Java,Programming,Medium
+JavaScript,Programming,High
+TypeScript,Programming,Medium
+C++,Programming,Medium
+C#,Programming,Medium
+Go,Programming,Medium
+Rust,Programming,Low
+PHP,Programming,Low
+Ruby,Programming,Low
+Kotlin,Programming,Low
+Swift,Programming,Low
+
+Pandas,Data Science,High
+NumPy,Data Science,High
+SciPy,Data Science,Medium
+Matplotlib,Data Science,High
+Seaborn,Data Science,Medium
+Plotly,Data Science,Medium
+Jupyter,Data Science,Medium
+Data Analysis,Data Science,High
+Data Analytics,Data Science,High
+Data Visualization,Data Science,High
+Statistics,Data Science,High
+Statistical Analysis,Data Science,Medium
+Excel,Data Science,High
+Power BI,Data Science,High
+Tableau,Data Science,High
+
+Machine Learning,Machine Learning,High
+Deep Learning,Machine Learning,High
+Scikit-learn,Machine Learning,High
+TensorFlow,Machine Learning,High
+PyTorch,Machine Learning,High
+Keras,Machine Learning,Medium
+XGBoost,Machine Learning,Medium
+LightGBM,Machine Learning,Medium
+Random Forest,Machine Learning,Medium
+Logistic Regression,Machine Learning,Medium
+Linear Regression,Machine Learning,Medium
+Decision Tree,Machine Learning,Medium
+Neural Network,Machine Learning,High
+Natural Language Processing,Machine Learning,High
+NLP,Machine Learning,High
+Computer Vision,Machine Learning,High
+Reinforcement Learning,Machine Learning,Low
+
+SQL,Database,High
+MySQL,Database,High
+PostgreSQL,Database,High
+MongoDB,Database,Medium
+SQLite,Database,Medium
+Oracle,Database,Medium
+Redis,Database,Medium
+Firebase,Database,Medium
+Supabase,Database,Medium
+DBMS,Database,High
+Database Management,Database,High
+
+HTML,Web Development,High
+CSS,Web Development,High
+React,Web Development,High
+React.js,Web Development,High
+Next.js,Web Development,Medium
+Node.js,Web Development,High
+Express.js,Web Development,Medium
+Tailwind CSS,Web Development,Medium
+REST API,Web Development,High
+RESTful API,Web Development,High
+API Development,Web Development,High
+Django,Web Development,Medium
+Flask,Web Development,Medium
+FastAPI,Web Development,High
+
+AWS,Cloud,High
+Amazon Web Services,Cloud,High
+Azure,Cloud,High
+Microsoft Azure,Cloud,High
+Google Cloud,Cloud,High
+GCP,Cloud,High
+Cloud Computing,Cloud,High
+Cloud Deployment,Cloud,Medium
+EC2,Cloud,Medium
+S3,Cloud,Medium
+Lambda,Cloud,Medium
+
+Docker,DevOps,High
+Kubernetes,DevOps,High
+Jenkins,DevOps,Medium
+GitHub Actions,DevOps,Medium
+CI/CD,DevOps,High
+CICD,DevOps,High
+Terraform,DevOps,Medium
+Ansible,DevOps,Medium
+Linux,DevOps,High
+Git,DevOps,High
+GitHub,DevOps,High
+GitLab,DevOps,Medium
+
+Hadoop,Big Data,Medium
+Spark,Big Data,High
+Apache Spark,Big Data,High
+HDFS,Big Data,Medium
+Hive,Big Data,Medium
+Kafka,Big Data,High
+Big Data,Big Data,High
+Data Engineering,Big Data,High
+ETL,Big Data,High
+
+Artificial Intelligence,AI,High
+Generative AI,AI,High
+GenAI,AI,High
+Large Language Models,AI,High
+LLM,AI,High
+Prompt Engineering,AI,High
+Transformers,AI,High
+BERT,AI,Medium
+GPT,AI,Medium
+RAG,AI,High
+Retrieval Augmented Generation,AI,High
+Embeddings,AI,High
+Speech Recognition,AI,Medium
+
+Communication,Professional,Medium
+Leadership,Professional,Medium
+Problem Solving,Professional,High
+Problem-Solving,Professional,High
+Teamwork,Professional,Medium
+Time Management,Professional,Medium
+Project Management,Professional,Medium
+Critical Thinking,Professional,Medium
+Analytical Thinking,Professional,High

@@ -1,0 +1,55 @@
+job_title,description,skills
+Data Scientist,"Analyze large datasets, build predictive models, perform statistical analysis and communicate insights to stakeholders","Python, Pandas, NumPy, SQL, Machine Learning, Statistics, Scikit-learn, Data Visualization"
+Data Scientist,"Develop machine learning solutions for business problems, perform feature engineering and evaluate predictive models","Python, Pandas, NumPy, SQL, Machine Learning, Scikit-learn, Statistics"
+Data Scientist,"Work with structured and unstructured data to build predictive analytics solutions and data-driven products","Python, SQL, Pandas, NumPy, Machine Learning, Statistics, Matplotlib"
+Data Scientist,"Build classification and regression models, analyze datasets and create data visualizations","Python, Pandas, NumPy, Scikit-learn, Machine Learning, SQL, Data Visualization"
+Data Scientist,"Perform exploratory data analysis, statistical modeling and machine learning for business intelligence","Python, SQL, Pandas, Statistics, Machine Learning, Scikit-learn"
+
+Machine Learning Engineer,"Design, train and deploy machine learning models for production applications","Python, Machine Learning, Scikit-learn, TensorFlow, PyTorch, Docker, Git"
+Machine Learning Engineer,"Develop scalable ML pipelines, train predictive models and optimize model performance","Python, Machine Learning, TensorFlow, PyTorch, Docker, Git, SQL"
+Machine Learning Engineer,"Build production machine learning systems and integrate models into software applications","Python, Machine Learning, Scikit-learn, Docker, REST API, Git"
+Machine Learning Engineer,"Implement deep learning and machine learning models and deploy them using cloud infrastructure","Python, Machine Learning, Deep Learning, TensorFlow, Docker, AWS"
+Machine Learning Engineer,"Develop automated machine learning pipelines and production-ready predictive models","Python, Scikit-learn, Machine Learning, Docker, Git, SQL"
+
+Data Analyst,"Analyze business data, create dashboards and generate insights for decision making","SQL, Python, Pandas, Excel, Statistics, Power BI, Data Visualization"
+Data Analyst,"Prepare and analyze datasets, create reports and develop business intelligence dashboards","SQL, Excel, Power BI, Tableau, Python, Pandas, Data Visualization"
+Data Analyst,"Perform exploratory data analysis and communicate business insights using dashboards","SQL, Python, Pandas, Statistics, Power BI, Tableau"
+Data Analyst,"Analyze customer and sales data to identify trends and create management reports","SQL, Excel, Power BI, Statistics, Data Visualization"
+Data Analyst,"Clean datasets, perform statistical analysis and build interactive business dashboards","Python, SQL, Pandas, Excel, Power BI, Statistics"
+
+Python Developer,"Develop Python applications, APIs and backend services using modern development frameworks","Python, Django, Flask, FastAPI, REST API, SQL, Git"
+Python Developer,"Build backend applications and REST APIs using Python and relational databases","Python, FastAPI, REST API, SQL, Git, Docker"
+Python Developer,"Develop scalable Python services and integrate third-party APIs","Python, Flask, REST API, PostgreSQL, Git, Docker"
+Python Developer,"Create backend systems, automation scripts and API services using Python","Python, Django, SQL, REST API, Git, Linux"
+Python Developer,"Develop enterprise Python applications with database integration and API architecture","Python, Django, PostgreSQL, REST API, Docker, Git"
+
+AI Engineer,"Develop artificial intelligence applications using machine learning, deep learning and generative AI","Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, LLM"
+AI Engineer,"Build intelligent applications using large language models, NLP and machine learning","Python, NLP, LLM, Machine Learning, Generative AI, RAG"
+AI Engineer,"Develop AI-powered solutions using computer vision, deep learning and neural networks","Python, Deep Learning, TensorFlow, PyTorch, Computer Vision, Machine Learning"
+AI Engineer,"Create generative AI applications using LLMs, embeddings and retrieval augmented generation","Python, LLM, Generative AI, RAG, Machine Learning, NLP"
+AI Engineer,"Build intelligent systems using deep learning, natural language processing and AI APIs","Python, Deep Learning, NLP, TensorFlow, PyTorch, Artificial Intelligence"
+
+Data Engineer,"Build data pipelines, ETL systems and scalable data processing infrastructure","Python, SQL, ETL, Data Engineering, Spark, Hadoop, AWS, Docker"
+Data Engineer,"Develop reliable data pipelines and transform large datasets for analytics and machine learning","Python, SQL, ETL, Spark, Data Engineering, AWS"
+Data Engineer,"Design data processing systems using distributed computing and cloud technologies","Python, SQL, Spark, Hadoop, AWS, Docker, Data Engineering"
+Data Engineer,"Build batch and streaming data pipelines and maintain data infrastructure","Python, SQL, Kafka, Spark, ETL, Data Engineering, Docker"
+Data Engineer,"Develop scalable data warehouses, ETL pipelines and cloud-based data solutions","Python, SQL, ETL, AWS, Data Engineering, Spark"
+
+Full Stack Developer,"Develop complete web applications using frontend frameworks, backend APIs and databases","HTML, CSS, JavaScript, React, Node.js, SQL, REST API, Git"
+Full Stack Developer,"Build responsive web applications using React, Node.js and relational databases","HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Git"
+Full Stack Developer,"Develop full stack applications with modern JavaScript frameworks and REST APIs","JavaScript, TypeScript, React, Node.js, REST API, MongoDB, Git"
+Full Stack Developer,"Create scalable web applications with frontend and backend technologies","HTML, CSS, JavaScript, React, Node.js, SQL, Docker"
+Full Stack Developer,"Build modern web platforms using React, backend APIs and cloud services","React, JavaScript, Node.js, REST API, AWS, Docker, Git"
+
+DevOps Engineer,"Automate software deployment and infrastructure using containers, CI/CD and cloud platforms","Linux, Docker, Kubernetes, Jenkins, AWS, Terraform, Git, CI/CD"
+DevOps Engineer,"Manage cloud infrastructure and automated deployment pipelines for production systems","Linux, Docker, Kubernetes, AWS, Terraform, Jenkins"
+DevOps Engineer,"Build CI/CD pipelines and manage containerized applications","Linux, Docker, Kubernetes, Jenkins, Git, CI/CD"
+DevOps Engineer,"Automate infrastructure and application deployment using cloud and DevOps tools","AWS, Docker, Terraform, Kubernetes, Linux, Git"
+DevOps Engineer,"Maintain scalable infrastructure and deployment automation using containers and cloud services","Docker, Kubernetes, AWS, Linux, Terraform, CI/CD"
+
+Cloud Engineer,"Design and maintain cloud infrastructure and deploy scalable applications","AWS, Azure, Google Cloud, Linux, Docker, Kubernetes, Terraform"
+Cloud Engineer,"Manage cloud computing resources, networking, storage and application deployments","AWS, EC2, S3, Linux, Docker, Terraform"
+Cloud Engineer,"Build scalable cloud architectures and deploy applications using cloud services","AWS, Azure, Docker, Kubernetes, Terraform, Linux"
+Cloud Engineer,"Manage cloud infrastructure, virtual machines, storage and networking services","AWS, Azure, Google Cloud, Linux, Docker"
+Cloud Engineer,"Implement cloud deployment and infrastructure automation for enterprise applications","AWS, Terraform, Docker, Kubernetes, Linux, Git"
+
